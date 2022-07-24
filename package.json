@@ -1,0 +1,20 @@
+{
+  "name": "javascript-for-testors",
+  "version": "1.0.0",
+  "description": "This project will basic understanding of code to testers.",
+  "main": "constants.js",
+  "scripts": {
+    "constants": "node constants"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NQSoftwareSolutions/javascript-for-testors.git"
+  },
+  "keywords": [],
+  "author": "Abdul Qayoom Jat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NQSoftwareSolutions/javascript-for-testors/issues"
+  },
+  "homepage": "https://github.com/NQSoftwareSolutions/javascript-for-testors#readme"
+}
