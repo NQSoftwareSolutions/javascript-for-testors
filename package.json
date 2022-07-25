@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/NQSoftwareSolutions/javascript-for-testors/issues"
   },
-  "homepage": "https://github.com/NQSoftwareSolutions/javascript-for-testors#readme"
+  "homepage": "https://github.com/NQSoftwareSolutions/javascript-for-testors#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
 }
