@@ -6,6 +6,10 @@
 // Function is excuted
 // Funtion is discarded
 
+//benifits
+// Prevent global scope tp be poluted by unnaccessory functions and vraiables
+// because IIFE decard all resources as soon is created and called.
+
 // with out name function
 (function(){
     console.log("Hello IIFE")
